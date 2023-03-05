@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "377203740853",
+    "project_id": "miseclothingshop",
+    "storage_bucket": "miseclothingshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377203740853:android:97a464d1c6810386e5eefc",
+        "android_client_info": {
+          "package_name": "com.summative.fsa_seprado_clothingshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377203740853-sk5ns95i7sdg411j8f3cd56km8f61v60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.summative.fsa_seprado_clothingshop",
+            "certificate_hash": "aa856e6459e1bab1dd05fde63ff830a08274114f"
+          }
+        },
+        {
+          "client_id": "377203740853-ecj2sf7t0624bc8kepi8vl4qfn17c7nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWmeJwcNcO7rppCYvLQa-epH-7fhbv7aQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377203740853-ecj2sf7t0624bc8kepi8vl4qfn17c7nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
